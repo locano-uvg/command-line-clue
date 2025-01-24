@@ -1,16 +1,17 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Police Officer
-- [ ] The Doctor
-- [ ] The Teacher
+- [ ] The Artist
+- [ ] The Clockmaker
+- [ ] The Blacksmith
 
 ## Weapons
-- [ ] Bronze Trophy
-- [ ] Brass Bell
-- [ ] Fountain Pen
+- [ ] Heavy Book
+- [ ] Letter Opener
+- [ ] Paint Brush
 
 ## Notes
-*Use this space to record your findings and deductions...*
+
+In the houses i found the blacksmith and gloves
 
 Location of the crime is still unknown - the room must have been empty when it happened...

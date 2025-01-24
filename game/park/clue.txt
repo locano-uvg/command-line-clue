@@ -1,5 +1,0 @@
-Investigation Update:
-
-You find a dropped keychain with a tag labeled 'playground'.
-
-Remember: Use 'cd "playground"' to follow this lead.

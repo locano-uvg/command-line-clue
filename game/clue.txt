@@ -1,6 +1,6 @@
 Detective's Initial Report:
 
-A note from The Shopkeeper mentions witnessing something concerning near the mansion.
+The Banker left an anonymous tip about unusual activity at the houses.
 
 This seems like a good place to start our investigation. Remember to:
 - Use 'cd' to move between locations

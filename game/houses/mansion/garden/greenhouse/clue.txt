@@ -1,6 +1,6 @@
 New Clue:
 
-An old note suggests reconsidering the park.
+Go back and check the meeting rooms in the town hall.
 
 Hint: You'll need to go back several directories to reach this location.
 Remember that you can use multiple '../' to go up multiple levels:

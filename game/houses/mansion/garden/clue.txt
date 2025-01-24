@@ -1,0 +1,5 @@
+Investigation Update:
+
+Through the window, you spot movement in the direction of the greenhouse.
+
+Remember: Use 'cd "greenhouse"' to follow this lead.
