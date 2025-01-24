@@ -21,3 +21,6 @@ A note from The Gardener mentions witnessing something concerning near the mansi
 I have another clue...
 A note from the security guard, hearing noises coming from the garden 
 
+I have another clue...
+A note telling me to go to the playground
+
