@@ -12,5 +12,5 @@
 
 ## Notes
 *Use this space to record your findings and deductions...*
-
+Primero inicié el juego y encontré una pista: el banquero vió en el kiosco una luz
 Location of the crime is still unknown - the room must have been empty when it happened...
