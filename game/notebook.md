@@ -20,3 +20,4 @@ De cottage me dirigí a cellar y luego a living room: nada.
 Me dirijo a park. No hay nada en park.
 Voy al gazebo, donde el banquero reporta haber visto una luz.
 Finalmente, encuentro una pista: tengo que hacer una búsqueda en el laboratorio de ciencia de la escuela.
+En la escuela, encuentro la escena del crimen, que concuerda con lo que los testigos vieron, un cuarto completamente vacío.
