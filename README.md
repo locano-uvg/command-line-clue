@@ -1,0 +1,2 @@
+Asesino: 
+Arma: 
