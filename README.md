@@ -1,5 +1,7 @@
 # Detective's Notebook
 
+iniciar juego
+
 ## Suspects
 - [ ] The Baker
 - [ ] The Doctor
