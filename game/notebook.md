@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Artist
 - [ ] The Clockmaker
-- [ ] The Blacksmith
+- [X] The Blacksmith
 
 ## Weapons
 - [ ] Heavy Book
