@@ -18,3 +18,5 @@ Me dirigí a houses pero no encontré nada.
 De houses me dirigí a cottage pero no encontré nada.
 De cottage me dirigí a cellar y luego a living room: nada.
 Me dirijo a park. No hay nada en park.
+Voy al gazebo, donde el banquero reporta haber visto una luz.
+Finalmente, encuentro una pista: tengo que hacer una búsqueda en el laboratorio de ciencia de la escuela.
