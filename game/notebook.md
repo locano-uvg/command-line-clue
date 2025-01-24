@@ -16,3 +16,4 @@
 Location of the crime is still unknown - the room must have been empty when it happened...
 
 - Primer commit, juego creado
+- carpeta game/park/playground revisada sin encontrar nada
