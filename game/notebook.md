@@ -17,3 +17,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 Me dirigí a houses pero no encontré nada.
 De houses me dirigí a cottage pero no encontré nada.
 De cottage me dirigí a cellar y luego a living room: nada.
+Me dirijo a park.
