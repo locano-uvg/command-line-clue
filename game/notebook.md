@@ -26,3 +26,7 @@ A note telling me to go to the playground
 
 I have another clue...
 Check the council chamber un the town hall
+
+I have another clue...
+Go to study in the houses
+
