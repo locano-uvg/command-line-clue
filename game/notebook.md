@@ -18,3 +18,6 @@ Location of the crime is still unknown - the room must have been empty when it h
 I have a clue...
 A note from The Gardener mentions witnessing something concerning near the mansion
 
+I have another clue...
+A note from the security guard, hearing noises coming from the garden 
+
