@@ -1,0 +1,5 @@
+Investigation Update:
+
+You hear sound coming from the nearby school.
+
+Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../school"'

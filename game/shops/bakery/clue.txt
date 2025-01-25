@@ -1,0 +1,5 @@
+Investigation Update:
+
+You find a dropped keychain with a tag labeled 'storage'.
+
+Remember: Use 'cd "storage"' to follow this lead.
