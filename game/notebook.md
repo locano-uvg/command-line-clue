@@ -30,3 +30,6 @@ Check the council chamber un the town hall
 I have another clue...
 Go to study in the houses
 
+I have another clue...
+The place where the crime was commited was in the study, so the killer would be de teacher and the weapon would be a heavy book
+
