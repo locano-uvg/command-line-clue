@@ -6,7 +6,7 @@
 - [ ] The Carpenter
 
 ## Weapons
-- [ ] Old Key
+- [x] Old Key
 - [ ] Silver Watch
 - [ ] Fountain Pen
 
@@ -23,3 +23,7 @@ Houses - Mansion - Garden, Brass Bell/The Innkeeper
 Houses - Mansion - Garden - Greenhouse, The Journalist 
 
 PISTA, checar el gimnasio en la escuela. 
+
+Gimnasio, Old key
+
+PISTA, Check the aisles in the shops.
