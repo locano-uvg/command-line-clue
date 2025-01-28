@@ -32,4 +32,4 @@ Encuentro al Musician en los records de ofices.
 Ahora voy a la cafetería, donde no encuentro objetos, pero encuentro al blacksmith.
 En la cocina solo encuentro a The Librarian.
 No hay nada en art room. Pero, en science lab, encuentro al oficial de policía, lo que me deja a The Tailor como el sospechoso número 1.
-Me dirijo al parque, nuevamente al gazebo y encuentro Magnifying Glass, dejando como arma el Iron Pocket.
+Me dirijo al parque, nuevamente al gazebo y encuentro Magnifying Glass, dejando como arma el Silver Watch.
