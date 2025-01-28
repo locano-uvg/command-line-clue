@@ -18,4 +18,5 @@ Location of the crime is still unknown - the room must have been empty when it h
 Houses - Cottage - Cellar , anything 
 Houses - Cottage - Living Room, anything 
 Houses - Cottage, anything
-Houses - Mansion, Doctor
+Houses, Doctor
+Houses - Mansion - Garden, Brass Bell/The Innkeeper
