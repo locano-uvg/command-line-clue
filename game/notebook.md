@@ -13,6 +13,7 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 -Se encontró el "Kitchen Knife" en "Park"
+
 -No hay nada en "Gazebo" en "Park"
 -No hay nada en "Playground" en "Park"
 -No hay nada en "SandBox" en "Playground"
@@ -31,6 +32,18 @@
 -En "School", en school\classrooms\science lab no hay personas ni objetos
 -En "School", en school\gymnasium no hay personas ni objetos
 
+-En Shops, en bakery se encontró la pista "You find a dropped keychain with a tag labeled 'storage'"
+
+-En Storage se encontró la pista:
+	"Here it is - the untouched crime scene! The stillness of this room suggests no one has entered since the incident.
+
+	Your careful detective work has paid off. The empty state of this room matches 
+	witness accounts - no one was around when the crime occurred. This must be 
+	where the murderer carried out their plan!
 
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+	Location of the crime is still unknown - the room must have been empty when it happened…
+-Todo en el town hall esta vacío, sin personas ni objetos
+
+-En resumen no hay personas y tampoco objetos en casi todos lados
+-POR LO QUE TODOS SON COMPLICES DE HOMICIDIO
