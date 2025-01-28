@@ -22,3 +22,5 @@ Voy al gazebo, donde el banquero reporta haber visto una luz.
 Finalmente, encuentro una pista: tengo que hacer una búsqueda en el laboratorio de ciencia de la escuela.
 En la escuela, encuentro la escena del crimen, que concuerda con lo que los testigos vieron, un cuarto completamente vacío.
 Voy a los classrooms para encontrar el laboratorio de ciencia, el Innkeeper está ahí.
+Al  entrar al science lab, me encuentro una nueva pista: tengo que ir a bakery en shops.
+Me dirijo hacia shops, afuera no hay nada.
