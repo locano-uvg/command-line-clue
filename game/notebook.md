@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Musician
+- [X] The Musician
 - [ ] The Tailor
 - [ ] The Police Officer
 
@@ -27,3 +27,5 @@ Me dirijo hacia shops, afuera no hay nada.
 Al entrar a bakery, encuentro una pista, tengo que ver los records en town hall. No encuentro objetos ni personas.
 Voy a town hall y no encuentro objetos ni persons.
 Entro a offices y no encuentro ni objetos ni personas.
+Me dirijo a records y encuentro una pista, tengo que regresar y buscar en algún otro lugar en la escuela.
+Encuentro al Musician en los records de oficces.
