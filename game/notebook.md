@@ -26,3 +26,4 @@ Al  entrar al science lab, me encuentro una nueva pista: tengo que ir a bakery e
 Me dirijo hacia shops, afuera no hay nada.
 Al entrar a bakery, encuentro una pista, tengo que ver los records en town hall. No encuentro objetos ni personas.
 Voy a town hall y no encuentro objetos ni persons.
+Entro a offices y no encuentro ni objetos ni personas.
