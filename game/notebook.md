@@ -25,3 +25,4 @@ Voy a los classrooms para encontrar el laboratorio de ciencia, el Innkeeper est√
 Al  entrar al science lab, me encuentro una nueva pista: tengo que ir a bakery en shops.
 Me dirijo hacia shops, afuera no hay nada.
 Al entrar a bakery, encuentro una pista, tengo que ver los records en town hall. No encuentro objetos ni personas.
+Voy a town hall y no encuentro objetos ni persons.
