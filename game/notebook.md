@@ -17,5 +17,7 @@
 -No hay nada en "Playground" en "Park"
 -No hay nada en "SandBox" en "Playground"
 -Se vio "clue" y dice que vaya a "Pond" en "Park"
+-En "Pond" no hay objetos ni personas
+-Se vio clu y dice que vaya a "Bakery"
 
 Location of the crime is still unknown - the room must have been empty when it happened...
