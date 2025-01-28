@@ -31,3 +31,4 @@ Me dirijo a records y encuentro una pista, tengo que regresar y buscar en algún
 Encuentro al Musician en los records de ofices.
 Ahora voy a la cafetería, donde no encuentro objetos, pero encuentro al blacksmith.
 En la cocina solo encuentro a The Librarian.
+No hay nada en art room.
