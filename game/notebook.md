@@ -28,4 +28,5 @@ Al entrar a bakery, encuentro una pista, tengo que ver los records en town hall.
 Voy a town hall y no encuentro objetos ni persons.
 Entro a offices y no encuentro ni objetos ni personas.
 Me dirijo a records y encuentro una pista, tengo que regresar y buscar en algún otro lugar en la escuela.
-Encuentro al Musician en los records de oficces.
+Encuentro al Musician en los records de ofices.
+Ahora voy a la cafetería, donde no encuentro objetos, pero encuentro al blacksmith.
