@@ -36,3 +36,12 @@ town hall - offices - records - archives, Silver Watch
 
 PISTA, Check the dock in the park. 
 
+park - pond - dock 
+The evidence is clear - this is where the crime took place! The room's undisturbed state tells the whole story.
+
+Your careful detective work has paid off. The empty state of this room matches 
+witness accounts - no one was around when the crime occurred. This must be 
+where the murderer carried out their plan!
+
+Make sure to document this discovery in your notebook.md file along with your 
+other findings about the weapon and suspect.  
