@@ -2,7 +2,7 @@
 
 ## Suspects
 - [x] The Journalist
-- [ ] The Postman
+- [x] The Postman
 - [ ] The Carpenter
 
 ## Weapons
@@ -27,3 +27,7 @@ PISTA, checar el gimnasio en la escuela.
 Gimnasio, Old key
 
 PISTA, Check the aisles in the shops.
+
+shops - market - aisles. The postman
+
+PISTA, Go to the archives in the town hall. 
