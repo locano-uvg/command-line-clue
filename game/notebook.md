@@ -19,5 +19,11 @@
 -Se vio "clue" y dice que vaya a "Pond" en "Park"
 -En "Pond" no hay objetos ni personas
 -Se vio clu y dice que vaya a "Bakery"
+-En "Houses" no hay personas ni objetos
+-En "Cottage" no hay personas ni objetos
+-En "Cellar" no hay personas ni objetos
+-En "Clue" dice que vaya a "Sandbox" pero no hay objetos ni personas
+-en "Living room" no hay personas ni objetos
+
 
 Location of the crime is still unknown - the room must have been empty when it happened...
