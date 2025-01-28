@@ -45,3 +45,5 @@ where the murderer carried out their plan!
 
 Make sure to document this discovery in your notebook.md file along with your 
 other findings about the weapon and suspect.  
+
+Debido a su ausencia en los lugares, el culpable es The Carpenter y el arma fue Fountain Pen 
