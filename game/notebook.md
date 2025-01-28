@@ -26,6 +26,11 @@
 -en "Living room" no hay personas ni objetos
 -En "Mansion", en "Garden" y en "GreenHouse" no hay personas ni objetos
 -En "Mansion", en "Library" y en "Study" no hay personas ni objetos
+-En "School", en \school\cafeteria\kitchen no hay personas ni objetos
+-En "School", en school\classrooms\art room no hay personas ni objetos
+-En "School", en school\classrooms\science lab no hay personas ni objetos
+-En "School", en school\gymnasium no hay personas ni objetos
+
 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
