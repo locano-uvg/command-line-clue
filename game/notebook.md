@@ -3,11 +3,11 @@
 ## Suspects
 - [X] The Musician
 - [ ] The Tailor
-- [ ] The Police Officer
+- [X] The Police Officer
 
 ## Weapons
 - [ ] Magnifying Glass
-- [ ] Iron Poker
+- [X] Iron Poker
 - [ ] Silver Watch
 
 ## Notes
@@ -31,4 +31,4 @@ Me dirijo a records y encuentro una pista, tengo que regresar y buscar en algún
 Encuentro al Musician en los records de ofices.
 Ahora voy a la cafetería, donde no encuentro objetos, pero encuentro al blacksmith.
 En la cocina solo encuentro a The Librarian.
-No hay nada en art room.
+No hay nada en art room. Pero, en science lab, encuentro al oficial de policía, lo que me deja a The Tailor como el sospechoso número 1.
