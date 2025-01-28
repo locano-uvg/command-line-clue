@@ -16,3 +16,5 @@
 Location of the crime is still unknown - the room must have been empty when it happened...
 
 Home - Cottage - Cellar , anything 
+Home - Cottage - Living Room, anything 
+Home - Cottage, anything
