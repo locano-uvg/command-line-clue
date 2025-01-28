@@ -7,7 +7,7 @@
 
 ## Weapons
 - [x] Old Key
-- [ ] Silver Watch
+- [x] Silver Watch
 - [ ] Fountain Pen
 
 ## Notes
@@ -31,3 +31,8 @@ PISTA, Check the aisles in the shops.
 shops - market - aisles. The postman
 
 PISTA, Go to the archives in the town hall. 
+
+town hall - offices - records - archives, Silver Watch
+
+PISTA, Check the dock in the park. 
+
