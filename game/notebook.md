@@ -24,4 +24,4 @@ En la escuela, encuentro la escena del crimen, que concuerda con lo que los test
 Voy a los classrooms para encontrar el laboratorio de ciencia, el Innkeeper está ahí.
 Al  entrar al science lab, me encuentro una nueva pista: tengo que ir a bakery en shops.
 Me dirijo hacia shops, afuera no hay nada.
-Al entrar a bakery, encuentro una pista, tengo que ver los records en town hall.
+Al entrar a bakery, encuentro una pista, tengo que ver los records en town hall. No encuentro objetos ni personas.
