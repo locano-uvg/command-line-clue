@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Journalist
+- [x] The Journalist
 - [ ] The Postman
 - [ ] The Carpenter
 
@@ -20,3 +20,6 @@ Houses - Cottage - Living Room, anything
 Houses - Cottage, anything
 Houses, Doctor
 Houses - Mansion - Garden, Brass Bell/The Innkeeper
+Houses - Mansion - Garden - Greenhouse, The Journalist 
+
+PISTA, checar el gimnasio en la escuela. 
