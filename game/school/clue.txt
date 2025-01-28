@@ -1,0 +1,5 @@
+Investigation Update:
+
+A cleaning schedule shows the shops was cleaned after this spot.
+
+Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../shops"'
