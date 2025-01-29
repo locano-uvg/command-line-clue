@@ -15,3 +15,4 @@
 
 Location of the crime is still unknown - the room must have been empty when it happened...
 ya encontre el bronze trophy
+la escena del crimen fue en el art room
