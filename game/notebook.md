@@ -23,3 +23,5 @@ Location of the crime is still unknown - the room must have been empty when it h
 - regrese a la escuela y ecnontre en personas al florista
 - en las classrooms encontré un clue que me lleva al hall 
 - fui al town hall y encontré al doctor 
+- en office no hay nada 
+- me movi a records y encontré una clue
