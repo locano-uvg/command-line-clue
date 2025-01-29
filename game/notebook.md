@@ -31,3 +31,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 - me movi al parque y al comienzo no encontré nada
 - revise todo el parque y no encontré nada 
 - entre en shops y no encontré ninguna clue ni ningún objeto
+- registre todas las houses y no encontré nada
