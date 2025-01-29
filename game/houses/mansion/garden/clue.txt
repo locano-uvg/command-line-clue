@@ -1,0 +1,5 @@
+Investigation Update:
+
+The dust on the floor shows a clear path heading to the greenhouse.
+
+Remember: Use 'cd "greenhouse"' to follow this lead.
