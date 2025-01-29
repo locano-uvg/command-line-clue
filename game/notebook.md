@@ -32,3 +32,6 @@ Location of the crime is still unknown - the room must have been empty when it h
 - revise todo el parque y no encontré nada 
 - entre en shops y no encontré ninguna clue ni ningún objeto
 - registre todas las houses y no encontré nada
+
+conclusión:
+ya que fue el crimen en las meeting rooms del town hall se puede deducir que el culpable fue el Journalist y el arma fue el silver watch ya que los otros 2 objetos no están en el town hall 
