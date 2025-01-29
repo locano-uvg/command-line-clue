@@ -1,6 +1,6 @@
 Investigation Conclusion:
 
-The undisturbed dust patterns confirm it - you've found the crime scene! The emptiness of the room speaks volumes.
+Success! This untouched room is exactly what you've been looking for - the scene of the crime!
 
 Your careful detective work has paid off. The empty state of this room matches 
 witness accounts - no one was around when the crime occurred. This must be 

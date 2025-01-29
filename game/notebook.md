@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Jocker
-- [ ] The Librarian
-- [ ] The Blacksmith
+- [ ] The Mayor
+- [ ] The Doctor
+- [ ] The Carpenter
 
 ## Weapons
-- [ ] Antique Compass
-- [ ] Glass Bottle
-- [ ] Magnifying Glass
+- [ ] Leather Gloves
+- [ ] Kitchen Knife
+- [ ] Iron Poker
 
 ## Notes
 *Use this space to record your findings and deductions...*
