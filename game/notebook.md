@@ -6,7 +6,7 @@
 - [ ] The Carpenter
 
 ## Weapons
-- [ ] Leather Gloves
+- [X] Leather Gloves
 - [ ] Kitchen Knife
 - [X] Iron Poker
 
@@ -19,5 +19,6 @@
 4 en el parque se encontro al banquero y al artista
 5 se encontro una pista que nos manda al laboratorio de la escuela
 6 se encontro una pista que nos mando a los archivos del town hall
+
 
 Location of the crime is still unknown - the room must have been empty when it happened...
