@@ -19,3 +19,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 -en el cafe no habia nada   
 -en la cocina de la cafeteria de la escuela no habia nada
 -encontre una pista en el pond apuntando a la bakery
+-otra pista en el bakery me dice que revise los pasillos en las tiendas
