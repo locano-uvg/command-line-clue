@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Leather Gloves
 - [ ] Kitchen Knife
-- [ ] Iron Poker
+- [X] Iron Poker
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -18,5 +18,6 @@
 3 se encontro una pista que nos manda al sandbox del parque
 4 en el parque se encontro al banquero y al artista
 5 se encontro una pista que nos manda al laboratorio de la escuela
+
 
 Location of the crime is still unknown - the room must have been empty when it happened...
