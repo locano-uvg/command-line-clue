@@ -1,0 +1,8 @@
+Detective's Initial Report:
+
+Local residents say The Police Officer was the last one to report activity near the living room.
+
+This seems like a good place to start our investigation. Remember to:
+- Use 'cd' to move between locations
+- Use 'ls' to list the contents of each location
+- Use 'cat' to read any text files you find

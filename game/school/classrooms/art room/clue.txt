@@ -1,0 +1,10 @@
+Investigation Conclusion:
+
+Success! This untouched room is exactly what you've been looking for - the scene of the crime!
+
+Your careful detective work has paid off. The empty state of this room matches 
+witness accounts - no one was around when the crime occurred. This must be 
+where the murderer carried out their plan!
+
+Make sure to document this discovery in your notebook.md file along with your 
+other findings about the weapon and suspect.
