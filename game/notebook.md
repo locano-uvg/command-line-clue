@@ -22,3 +22,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 - En la carpeta game/school y en el archivo objects.txt encontre una wepons (silver watch)
 
 
+- Texto
