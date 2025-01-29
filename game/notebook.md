@@ -3,12 +3,12 @@
 
 ## Suspects
 - [ ] The Artist
-- [ ] The Clockmaker
+- [X] The Clockmaker
 - [X] The Blacksmith
 
 ## Weapons
-- [ ] Heavy Book
-- [ ] Letter Opener
+- [X] Heavy Book
+- [X] Letter Opener
 - [ ] Paint Brush
 
 ## Notes
@@ -20,3 +20,5 @@ I looked for the clue ond the meeting rooms, but it just told me to go to the ki
 In the school kitchen I found out that the crime happened here
 
 Location of the crime is still unknown - the room must have been empty when it happened...
+
+Just basing from the clues and the place it was commited, i think it was the artist, because it makes more sense for him to be in the school kitchen, and probably his tool was the paint brush
