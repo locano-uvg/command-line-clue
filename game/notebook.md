@@ -21,4 +21,6 @@ Location of the crime is still unknown - the room must have been empty when it h
 -encontre una pista en el pond apuntando a la bakery
 -otra pista en el bakery me dice que revise los pasillos en las tiendas
 -en los pasillos de la biblioteca encontre "wooden box" y "Antique Compass" y a "The Doctor"
-
+-pista en el living room de la "cottage": ir a la sanbox en el parque
+-la pista de el sandbox me dice que vuelva al pond (todo se repite :c )
+-
