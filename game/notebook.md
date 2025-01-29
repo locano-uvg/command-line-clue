@@ -16,3 +16,5 @@
 Location of the crime is still unknown - the room must have been empty when it happened...
 -en houses no hay personas ni objetos
 -en cellars no habia nada
+-en el cafe no habia nada   
+sdaf
