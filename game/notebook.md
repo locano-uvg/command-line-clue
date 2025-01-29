@@ -18,3 +18,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 -en cellars no habia nada
 -en el cafe no habia nada   
 -en la cocina de la cafeteria de la escuela no habia nada
+-encontre una pista en el pond apuntando a la bakery
