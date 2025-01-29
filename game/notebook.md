@@ -21,3 +21,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 - encontré un walking stick 
 - me movi a las classrooms 
 - regrese a la escuela y ecnontre en personas al florista
+- en las classrooms encontré un clue que me lleva al hall 
