@@ -18,4 +18,5 @@ Location of the crime is still unknown - the room must have been empty when it h
 
 - abri el clue en el game
 - fui a la escuela
+- encontré un walking stick 
 
