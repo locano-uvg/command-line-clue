@@ -1,6 +1,6 @@
 New Clue:
 
-Check the art room in the school.
+New information suggests returning to the shops.
 
 Hint: You'll need to go back several directories to reach this location.
 Remember that you can use multiple '../' to go up multiple levels:

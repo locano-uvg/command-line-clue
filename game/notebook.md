@@ -1,4 +1,5 @@
-# Detective's Notebook
+LS
+p# Detective's Notebook
 
 ## Suspects
 - [ ] The Mayor
@@ -6,7 +7,7 @@
 - [ ] The Blacksmith
 
 ## Weapons
-- [ ] Fountain Pen
+- [X] Fountain Pen
 - [ ] Magnifying Glass
 - [ ] Bronze Trophy
 
