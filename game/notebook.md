@@ -1,12 +1,12 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Librarian
+- [x ] The Librarian
 - [x ] The Blacksmith
 - [ ] The Baker
 
 ## Weapons
-- [ ] Leather Gloves
+- [ x] Leather Gloves
 - [x ] Bronze Trophy
 - [ ] Letter Opener
 
