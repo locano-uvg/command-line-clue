@@ -17,4 +17,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 -en houses no hay personas ni objetos
 -en cellars no habia nada
 -en el cafe no habia nada   
-sdaf
+-en la cocina de la cafeteria de la escuela no habia nada
