@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Florist
+- [X] The Florist
 - [ ] The Artist
 - [ ] The Journalist
 
@@ -20,4 +20,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 - fui a la escuela
 - encontré un walking stick 
 - me movi a las classrooms 
-
+- regrese a la escuela y ecnontre en personas al florista
