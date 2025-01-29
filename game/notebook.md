@@ -17,3 +17,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 ya encontre el bronze trophy
 la escena del crimen fue en el art room
 encontre a the blacksmith en el cafe
+el baker y letter opener
