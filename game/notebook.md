@@ -1,8 +1,8 @@
 # Detective's Notebook
 
 ## Suspects
-- [x] The Mayor
-- [ ] The Doctor
+- [X] The Mayor
+- [X] The Doctor
 - [ ] The Carpenter
 
 ## Weapons
