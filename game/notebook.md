@@ -14,5 +14,6 @@
 *Use this space to record your findings and deductions...*
 
 1 La primera pista nos manda a una bodega 
+2 se encontro al chef en el mercado 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
