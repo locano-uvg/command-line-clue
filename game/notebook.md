@@ -20,6 +20,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 - carpeta game/park/pond revisada sin encontrar nada
 - carpeta game/park/ gazebo revisada sin encontrar nada
 - En la carpeta game/school y en el archivo objects.txt encontre una wepons (silver watch)
-
-
-- Texto
+- Juego reiniciado (2da vez)
