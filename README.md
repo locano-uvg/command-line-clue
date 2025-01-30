@@ -1,2 +1,2 @@
-Asesino: 
-Arma: 
+Asesino: The Artist
+Arma: Fountain Pen 
