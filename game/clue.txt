@@ -1,6 +1,6 @@
 Detective's Initial Report:
 
-During the morning roll call, The Artist reported odd footprints leading to the garden.
+I overheard The Artist mentioning something strange they noticed near the living room.
 
 This seems like a good place to start our investigation. Remember to:
 - Use 'cd' to move between locations
