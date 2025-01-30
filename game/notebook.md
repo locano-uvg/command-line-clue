@@ -14,7 +14,7 @@
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
--en houses no hay personas ni objetos
+-en houses no hay personas ni objetos'art room'
 -en cellars no habia nada
 -en el cafe no habia nada   
 -en la cocina de la cafeteria de la escuela no habia nada
@@ -23,4 +23,5 @@ Location of the crime is still unknown - the room must have been empty when it h
 -en los pasillos de la biblioteca encontre "wooden box" y "Antique Compass" y a "The Doctor"
 -pista en el living room de la "cottage": ir a la sanbox en el parque
 -la pista de el sandbox me dice que vuelva al pond (todo se repite :c )
--
+-encontre al "Shopkeeper" y "Florist" en "town hall"
+-estoy seguro que ya revise todo y no hay nada Conlusion: "el asesinato no existe"
