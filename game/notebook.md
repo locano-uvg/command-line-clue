@@ -2,7 +2,7 @@
 
 ## Suspects
 - [x] The Blacksmith
-- [ ] The Innkeeper
+- [x] The Innkeeper
 - [ ] The Artist
 
 ## Weapons
@@ -18,3 +18,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 - persona encontrada en la carpeta game/park/playground/sandbox (The Musician)
 - persona encontrada en la carpeta game/park/gazebo
 - objeto encontrado en la carpeta game/school/classroom (Magnifying Glass)
+- persona encontrada del listado en la carpeta game/townhall/offices/records (The Innkeeper)
