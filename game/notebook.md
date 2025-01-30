@@ -15,3 +15,4 @@
 
 Location of the crime is still unknown - the room must have been empty when it happened...
 - objetos encontrados en la carpeta game/houses/mansion/garden/greenhouse (Steel Ruler, Bronze Trophy)
+- persona encontrada en la carpeta game/park/playground/sandbox (The Musician)
