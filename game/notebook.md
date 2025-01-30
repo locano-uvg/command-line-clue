@@ -6,7 +6,7 @@
 - [ ] The Artist
 
 ## Weapons
-- [ ] Magnifying Glass
+- [x] Magnifying Glass
 - [ ] Kitchen Knife
 - [ ] Fountain Pen
 
@@ -17,3 +17,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 - objetos encontrados en la carpeta game/houses/mansion/garden/greenhouse (Steel Ruler, Bronze Trophy)
 - persona encontrada en la carpeta game/park/playground/sandbox (The Musician)
 - persona encontrada en la carpeta game/park/gazebo
+- objeto encontrado en la carpeta game/school/classroom (Magnifying Glass)
