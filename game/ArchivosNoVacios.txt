@@ -1,0 +1,24 @@
+./clue.txt
+./school/gymnasium/persons.txt
+./school/classrooms/art room/persons.txt
+./school/classrooms/science lab/objects.txt
+./Caminos.txt
+./town hall/persons.txt
+./park/gazebo/persons.txt
+./park/gazebo/objects.txt
+./park/playground/sandbox/persons.txt
+./park/playground/sandbox/clue.txt
+./accuse.py
+./shops/cafe/objects.txt
+./shops/bakery/persons.txt
+./shops/bakery/storage/objects.txt
+./shops/bakery/objects.txt
+./shops/market/aisles/clue.txt
+./shops/market/aisles/objects.txt
+./shops/market/objects.txt
+./Residential Area/mansion/garden/persons.txt
+./Residential Area/mansion/garden/clue.txt
+./Residential Area/mansion/library/clue.txt
+./Residential Area/mansion/library/objects.txt
+./Residential Area/mansion/objects.txt
+./notebook.md
