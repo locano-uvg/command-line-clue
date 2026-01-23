@@ -1,0 +1,5 @@
+Investigation Update:
+
+Through the window, you can see the lights are on in the library.
+
+Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../library"'
