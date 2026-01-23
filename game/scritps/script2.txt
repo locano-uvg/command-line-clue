@@ -1,0 +1,9 @@
+find . -type f -size +0c | while read -r file; do
+    if file "" | grep -q text; then
+        if grep -q '[^[:space:]]' ""; then
+            echo "==========  =========="
+            cat ""
+            echo
+        fi
+    fi
+done

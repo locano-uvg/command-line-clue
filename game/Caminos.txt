@@ -1,0 +1,119 @@
+.
+├── Caminos.txt
+├── Residential Area
+│   ├── cottage
+│   │   ├── cellar
+│   │   │   ├── objects.txt
+│   │   │   └── persons.txt
+│   │   ├── living room
+│   │   │   ├── objects.txt
+│   │   │   └── persons.txt
+│   │   ├── objects.txt
+│   │   └── persons.txt
+│   ├── mansion
+│   │   ├── garden
+│   │   │   ├── clue.txt
+│   │   │   ├── greenhouse
+│   │   │   │   ├── objects.txt
+│   │   │   │   └── persons.txt
+│   │   │   ├── objects.txt
+│   │   │   └── persons.txt
+│   │   ├── library
+│   │   │   ├── clue.txt
+│   │   │   ├── objects.txt
+│   │   │   ├── persons.txt
+│   │   │   └── study
+│   │   │       ├── objects.txt
+│   │   │       └── persons.txt
+│   │   ├── objects.txt
+│   │   └── persons.txt
+│   ├── objects.txt
+│   └── persons.txt
+├── accuse.py
+├── clue.txt
+├── notebook.md
+├── park
+│   ├── gazebo
+│   │   ├── objects.txt
+│   │   └── persons.txt
+│   ├── objects.txt
+│   ├── persons.txt
+│   ├── playground
+│   │   ├── objects.txt
+│   │   ├── persons.txt
+│   │   └── sandbox
+│   │       ├── clue.txt
+│   │       ├── objects.txt
+│   │       └── persons.txt
+│   └── pond
+│       ├── dock
+│       │   ├── objects.txt
+│       │   └── persons.txt
+│       ├── objects.txt
+│       └── persons.txt
+├── school
+│   ├── cafeteria
+│   │   ├── kitchen
+│   │   │   ├── objects.txt
+│   │   │   └── persons.txt
+│   │   ├── objects.txt
+│   │   └── persons.txt
+│   ├── classrooms
+│   │   ├── art room
+│   │   │   ├── objects.txt
+│   │   │   └── persons.txt
+│   │   ├── objects.txt
+│   │   ├── persons.txt
+│   │   └── science lab
+│   │       ├── objects.txt
+│   │       └── persons.txt
+│   ├── gymnasium
+│   │   ├── objects.txt
+│   │   └── persons.txt
+│   ├── objects.txt
+│   └── persons.txt
+├── shops
+│   ├── bakery
+│   │   ├── kitchen
+│   │   │   ├── objects.txt
+│   │   │   └── persons.txt
+│   │   ├── objects.txt
+│   │   ├── persons.txt
+│   │   └── storage
+│   │       ├── objects.txt
+│   │       └── persons.txt
+│   ├── cafe
+│   │   ├── objects.txt
+│   │   └── persons.txt
+│   ├── market
+│   │   ├── aisles
+│   │   │   ├── clue.txt
+│   │   │   ├── objects.txt
+│   │   │   └── persons.txt
+│   │   ├── objects.txt
+│   │   ├── persons.txt
+│   │   └── stockroom
+│   │       ├── objects.txt
+│   │       └── persons.txt
+│   ├── objects.txt
+│   └── persons.txt
+└── town hall
+    ├── objects.txt
+    ├── offices
+    │   ├── meeting rooms
+    │   │   ├── council chamber
+    │   │   │   ├── objects.txt
+    │   │   │   └── persons.txt
+    │   │   ├── objects.txt
+    │   │   └── persons.txt
+    │   ├── objects.txt
+    │   ├── persons.txt
+    │   └── records
+    │       ├── archives
+    │       │   ├── objects.txt
+    │       │   └── persons.txt
+    │       ├── objects.txt
+    │       └── persons.txt
+    └── persons.txt
+
+37 directories, 80 files

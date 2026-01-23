@@ -1,0 +1,7 @@
+find . -type f -size +0c | while read -r file; do
+    if file "$file" | grep -q text; then
+        if grep -q '[^[:space:]]' "$file"; then
+            echo "$file"
+        fi
+    fi
+done
