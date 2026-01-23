@@ -3,14 +3,17 @@
 ## Suspects
 - [ ] The Clockmaker
 - [ ] The Banker
-- [ ] The Postman
+- [x] The Postman
 
 ## Weapons
 - [ ] Heavy Book
 - [ ] Fountain Pen
-- [ ] Magnifying Glass
+- [x] Magnifying Glass
 
 ## Notes
 *Use this space to record your findings and deductions...*
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+There is a crystal vase in the garden, there are no people, no clue.
+There is a magnifying glass in the living room, there are no people, clue: Go to the park.
+There are garden sheaers in the park.
+The postman is in the playground so he is discarded, clue: Check the storage in the shops.
