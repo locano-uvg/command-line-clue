@@ -19,3 +19,5 @@ There are garden sheaers in the park.
 The postman is in the playground, clue: Check the storage in the shops.
 The tailor and a latter opener are in the shops, no clue.
 The heavy book, the old key and the artist are in the market, clue: There are suspicious noises in the cafe.
+The murder occured in the cafe, there are 2 suspects and 1 weapon left.
+
