@@ -22,3 +22,7 @@ The heavy book, the old key and the artist are in the market, clue: There are su
 The murder occured in the cafe, there are 2 suspects and 1 weapon left.
 The librarian is in the bakery.
 The banker is in the storage, clue: Go to market.
+
+
+Mistery solved!
+The clockmaker was the murderer, the weapon was the fountain pen and the room was the cafe.
