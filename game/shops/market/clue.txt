@@ -1,0 +1,5 @@
+Investigation Update:
+
+You overhear someone mentioning suspicious noises from the cafe.
+
+Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../cafe"'
